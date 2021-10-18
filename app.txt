@@ -1,0 +1,13 @@
+Application
+
+
+User
+Name | Email | Password
+
+Database
+{
+    name: "Yash",
+    email: "goyal.yash@gmail.com"
+    passowrd: "123"
+}
+
