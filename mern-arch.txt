@@ -1,0 +1,29 @@
+MERN Stack | MERN Application
+
+M -> MongoDb (Database)
+E -> Express (Web Framework)
+R -> React  (Frontend) - HTML/CSS/Javascript - React
+N -> NodeJs Javascript Runtime - Allows you to run JS on your laptop (terminal)
+
+Other Frontend Examples
+
+Angular
+Vue
+NextJs
+...
+
+Express
+Sails
+Fastify
+Hapi
+Loopback
+
+MongoDb - NoSQL - Non Relational Database - Document - Key value
+MySQL - SQL - Relational Database - Table - Join
+
+NodeJs
+Python - Flask | Django
+Java - Spring - Hibernate
+
+
+
