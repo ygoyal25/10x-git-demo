@@ -2,7 +2,7 @@ MERN Stack | MERN Application
 
 
 
-M -> MongoDb (Database)
+M -> MongoDb/MySQL (Database)
 E -> Express (Web Framework)
 R -> React  (Frontend) - HTML/CSS/Javascript - React
 N -> NodeJs Javascript Runtime - Allows you to run JS on your laptop (terminal)
