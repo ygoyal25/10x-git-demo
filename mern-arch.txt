@@ -29,3 +29,10 @@ Java - Spring - Hibernate
 
 
 
+--> git init
+--> git status
+--> git add <file>
+--> git add .
+--> git commit -m "<Message>"
+--> git log
+--> git checkout <commit_hash>
