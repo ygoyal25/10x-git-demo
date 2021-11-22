@@ -25,7 +25,7 @@ MySQL - SQL - Relational Database - Table - Join
 
 NodeJs
 Python - Flask | Django
-Java - Spring - Hibernate
+Java - Spring - Hibernate - Check now
 
 
 
